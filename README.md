@@ -25,6 +25,8 @@ A curated list of awesome frameworks, libraries, and software relating to Hytale
 ## Commands
 _Libraries that aid in the creation of Hytale commands._
 
+- [Blade](https://github.com/vaperion/blade) - An opinionated command framework that's annotation-based, with recent added support for Hytale.
+
 ## Configuration
 _Libraries that make it easier to work with configuration files._
 
