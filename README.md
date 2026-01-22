@@ -66,8 +66,14 @@ _Plugins for managing world regions._
 _Support Resources for Hytale._
 
 - [Hytale Support](https://support.hytale.com/hc/en-us/categories/45383370472731-Game-Features): Hytale's official support website with manuals for setting up servers & more.
+- [Hytale Docs](https://hytale-docs.com/) - Unofficial documentation for Hytale modding and other player guides.
 
 # Software
+
+## Applications
+_Applications related to Hytale._
+
+- [HyPrism](https://github.com/yyyumeniku/HyPrism) - An unofficial launcher for Hytale with mod support and other improvements.
 
 ## Tools
 _Miscellaneous tools._
