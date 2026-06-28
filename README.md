@@ -67,6 +67,7 @@ _Support Resources for Hytale._
 
 - [Hytale Support](https://support.hytale.com/hc/en-us/categories/45383370472731-Game-Features): Hytale's official support website with manuals for setting up servers & more.
 - [Hytale Docs](https://hytale-docs.com/) - Unofficial documentation for Hytale modding and other player guides.
+- [Hytale Character Recipes](https://hytalecharacter.com/) - A fan-made archive of Hytale character recipe references, screenshots, and recreation notes.
 
 # Software
 
