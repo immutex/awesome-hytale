@@ -80,3 +80,5 @@ _Applications related to Hytale._
 _Miscellaneous tools._
 
 - [Hytale Models](https://www.blockbench.net/plugins/hytale_plugin) - A Blockbench plugin that adds support for Hytale.
+
+- [Citadel Desk](https://citadeldesk.com/) - Free Windows beta for turning Minecraft schematics into manual Hytale build plans, with material matching, 3D/2D layer views, measurements and progress tracking. Known beta issues; no native Hytale schematic export.
